@@ -19,12 +19,12 @@ A simple fitness tracker application built using Python and Tkinter. This applic
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/fitness-tracker.git
+    git clone https://github.com/ishaan2304/Fitness-Tracker.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd fitness-tracker
+    cd Fitness-Tracker
     ```
 
 3. Run the application:
@@ -53,7 +53,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## Contact
-
-For any questions or feedback, please contact [yourname](mailto:youremail@example.com).
 
