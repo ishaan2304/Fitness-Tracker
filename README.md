@@ -41,9 +41,6 @@ A simple fitness tracker application built using Python and Tkinter. This applic
 5. Save workout data to a file by clicking "Save Data".
 6. Load workout data from a file by clicking "Load Data".
 
-## Screenshots
-
-![Fitness Tracker UI](screenshot.png)
 
 ## License
 
