@@ -21,7 +21,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 2. Navigate to the project directory:
    ```
-   cd new-github-repo
+   cd Fitness_Tracker
    ```
 
 3. Install the required packages:
