@@ -33,7 +33,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 To start the application, run the following command in your terminal:
 ```
-streamlit run app.py
+streamlit run Fitness-Tracker
 ```
 
 Open your web browser and go to `http://localhost:8501` to access the Fitness Tracker application.
