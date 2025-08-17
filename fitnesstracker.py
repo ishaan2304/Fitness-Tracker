@@ -78,7 +78,6 @@ class Workout:
 
     def __str__(self):
         return f"{self.date} - {self.exercise_type} for {self.duration} minutes, {self.calories_burned} calories burned"
-
 class User:
     def __init__(self, name, age, weight):
         self.name = name
@@ -213,4 +212,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
