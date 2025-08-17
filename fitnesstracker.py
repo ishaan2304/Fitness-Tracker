@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 from io import StringIO
 import streamlit.components.v1 as components
-
-# CSS for animations and styling
 page_animation = """
 <style>
 /* Background Animation */
@@ -215,3 +213,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
