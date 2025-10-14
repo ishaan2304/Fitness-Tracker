@@ -7,7 +7,9 @@ This project is a Fitness Tracker application built using Streamlit. It allows u
 - Log workouts with details such as date, exercise type, duration, and calories burned.
 - View a list of logged workouts.
 - Save workout data to a file.
-- Load workout data from a file.
+- Load workout data from a file
+
+
 
 ## Installation
 
