@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-This project is a Fitness Tracker application built using Streamlit. It allows users to create profiles, log workouts, and save/load workout data The application provides a user-friendly interface for tracking fitness activities and monitoring progress over time.
+This project is a Fitness Tracker application built using Streamlit. It allows users to create profiles, log workouts, and save/load workout data The application provides a user-friendly interface for tracking fitness activities and monitoring progress over time
 
 ## Features
 - Create a user profile with name, age, and weight.
